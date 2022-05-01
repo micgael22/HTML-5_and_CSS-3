@@ -37,4 +37,9 @@
 :doughnut: Logo, Heading, Navigation <br />
 :doughnut: Inline CSS <br />
 :doughnut: Internal CSS <br />
+
 :doughnut: Exterenal CSS <br />
+
+## Screenshots of Database:
+### HTML Screenshot
+<img align="center" width="900" height="500" src="https://user-images.githubusercontent.com/88590240/166159012-a4337df6-5671-4be9-9207-d79d1f729098.png">
